@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with React",
+    "summary": "Learn the basics of React and how to create your first component.",
+    "content": "React is a JavaScript library for building user interfaces. It makes it painless to create interactive UIs...",
+    "date": "2024-06-01"
+  },
+  {
+    "id": "2",
+    "title": "Next.js for Beginners",
+    "summary": "An introduction to Next.js and its benefits over plain React.",
+    "content": "Next.js is a React framework that enables server-side rendering and generating static websites for React-based web applications...",
+    "date": "2024-06-02"
+  },
+  {
+    "id": "3",
+    "title": "TypeScript with React",
+    "summary": "Understand how to use TypeScript to write type-safe React components.",
+    "content": "TypeScript adds static typing to JavaScript. When used with React, it provides better IDE support and fewer runtime errors...",
+    "date": "2024-06-03"
+  }
+]
